@@ -1,0 +1,98 @@
+body{
+    background-color: #CD5D5D;
+}
+.h1{
+    color: white;
+    text-align: center;
+    font-size: 64px;
+}
+.main{
+    background-color: yellow;
+    width: 1200px;
+    height: 894px;
+    margin: 0 auto;
+    
+
+}
+.nav{
+    display: flex;
+    border: 5px solid red;
+}
+.nav ul{
+    display: flex;
+    gap: 130px;
+    font-size: 15px;
+    justify-content: space-evenly;
+}
+.main2{
+width: 302px;
+height: 400px;
+background-color: black;
+justify-content: space-evenly;
+margin: 30px 40px;
+color: white;
+font-size: 14px;
+text-align: center;
+}
+.main3{
+    width: 250px;
+    height: 400px;
+    background-color: black;
+    justify-content: space-evenly;
+    margin: 30px 40px;
+    color: white;
+    font-size: 13px;
+    text-align: center;
+}
+.box{
+    display: flex;
+    gap: 40px;
+    justify-content: space-evenly;
+
+}
+.main4{
+    width: 550px;
+    height: 400px;
+    background-color: black;
+    justify-content: space-evenly;
+    margin: 30px 40px;
+    color: white;
+    font-size: 13px;
+    text-align: center;
+}
+
+.box2{
+    display: flex;
+    gap: 5px;
+    justify-content: space-evenly;
+}
+.img{
+    width: 350px;
+    height: 350px;
+    background-color: black;
+    justify-content: space-evenly;
+    margin: 5px 40px;
+    color: white;
+    font-size: 13px;
+    text-align: center;
+}
+.img999{
+    width: 310px;
+    height: 350px;
+    background-color: black;
+    justify-content: space-evenly;
+    margin: 5px 40px;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+.img999{
+    width: 350px;
+    height: 350px;
+    background-color: black;
+    justify-content: space-evenly;
+    margin: 5px 40px;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
